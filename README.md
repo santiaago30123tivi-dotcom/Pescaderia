@@ -7,4 +7,4 @@ frescura y calidad para el consumo humano. Ademas, suele ofrecer asesoramiento a
 preparación,limpieza y consumo de los peces y mariscos.
 
 
-![151-Pescaderia-La-Cigalena](https://github.com/user-attachments/assets/a851f0ff-36e3-4ae6-b869-8ac506f2cc35)
+<img width="1024" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/ad9feffc-142a-41a1-bd4e-f948acbb2c37" />
